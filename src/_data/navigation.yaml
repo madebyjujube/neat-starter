@@ -2,9 +2,9 @@
 items:
   - text: Menu One
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: juju's
+    url: "/juju"
+  - text: admin
+    url: "/admin"
   - text: Blog
     url: "/blog"
